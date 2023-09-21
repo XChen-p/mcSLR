@@ -5,4 +5,5 @@ Installation of FSL is required to run FLIRT (FMRIB's Linear Image Registration 
 Simulation and a reference in vivo data is avaliable at https://zenodo.org/record/8365712
 
 mc_SLR_simu_asense_tSNR.m performs SENSE and mcSENSE reconstructions.
+mc_SLR_simu_intr_tSNR_2steps.m performs SLR and mcSLR reconstructions.
 
